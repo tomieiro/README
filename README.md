@@ -1,7 +1,7 @@
 # Hello there :wave: !
 My name is Matheus Tomieiro, or simply Tomieiro :technologist:.
 
-I'm a Computer Science student at the university of Sao Paulo. I'm particularly have great interest in C/C++, Lua, Java and Assembly :information_source:.
+I'm a Computer Science student at the university of Sao Paulo. I'm particularly have great interest in C, C++, Lua, Java and Assembly :information_source:.
 
 Here some stats about my projects on GitHub:
 
